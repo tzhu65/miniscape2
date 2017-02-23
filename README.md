@@ -1,5 +1,16 @@
 # miniscape
 
+* Figure out how to render a sprite
+* Allow movement
+* Make it shoot a projectile
+* Test collisions
+
+* Learn how to use scenes
+* Define our own keyboard mechanics
+* Generate layers and sort by Z again
+* Figure out a way to generate maps (try using tiled, it seems promising)
+
+
 ## TODO
 * Write collision functions
 * Complete `Projectiles` and `Characters` on the client
